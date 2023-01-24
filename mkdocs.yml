@@ -1,0 +1,29 @@
+site_name: ttb blog
+site_url: https://tannatechbiz.com
+nav:
+    - Home: index.md
+    - About: about.md
+    - About123: about123.md
+       
+    
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+
+plugins:
+   - search
+   - tags
+ 
+   
+markdown_extensions:
+  - pymdownx.critic
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - abbr
+  - footnotes
+  - meta
