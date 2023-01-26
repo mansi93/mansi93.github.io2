@@ -1,5 +1,5 @@
 site_name: ttb blog
-site_url: https://tannatechbiz.com
+site_url: https://wiki.tannatechbiz.com
 nav:
     - Home: index.md
     - About: about.md
